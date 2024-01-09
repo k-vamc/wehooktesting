@@ -1,3 +1,4 @@
+#this is docker file
 FROM nginx:latest 
 MAINTAINER mavrick202@gmail.com 
 RUN apt install -y curl
